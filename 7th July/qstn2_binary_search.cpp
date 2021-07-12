@@ -13,7 +13,7 @@ find(int val) returns whether there are two elements whose sum equals to val
 
 //                  Answer
 class TwoSum {
-    public:
+    public: 
     vector<int> v;
     unordered_map<int,int> mp;
     int count=0;
